@@ -1,3 +1,14 @@
+您好，本仓库已搬迁至 https://github.com/Flyfish233/lite-laji-bing-daily-picture
+这是本仓库的最后一个版本。
+感谢您的支持与Fork。
+请及时转入新版。
+
+Flyfish 告知。
+
+Hello.This works moved https://github.com/Flyfish233/lite-laji-bing-daily-picture
+Please watch the newest works.
+Thank you.
+Flyfish
 ![一个 API 实例。](https://flyfish233.com/bingweapi.php)
 > 上图是此 API 的实例，在下午的某个时间以后您可以看到明天的图片！想要就下个吧！
 # 垃圾 必应每日美图 API(LLBDPA)
