@@ -12,6 +12,7 @@
 <li>下载一次，到处运行，永远享受，<b>当然，比繁琐的同类型 API 更快运行！获取图片的速度取决于用户网络的速率。</b>
 
 Fork 来自 [@Little_Qiu](https://www.littleqiu.net). 同样地，使用 GPL3.0 开源方法。
+
 # Lite Laji Bing Daily Picture API(LLBDPA)
 ## What is this?
 This API can catch daily picture from Bing.com,and can open this picture.
