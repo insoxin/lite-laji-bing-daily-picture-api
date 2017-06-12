@@ -1,5 +1,4 @@
-
-![一个 API 实例。](https://flyfish233.com/bingweapi.php)
+[一个 API 实例。](https://flyfish233.com/bingweapi.php)
 > 上图是此 API 的实例，在下午的某个时间以后您可以看到明天的图片！想要就下个吧！
 # 垃圾 必应每日美图 API(LLBDPA)
 本 API 获得 Bing 今日美图的图片地址并跳转。版权参见 Bing.
