@@ -13,6 +13,7 @@
 
 Fork 来自 [@Little_Qiu](https://www.littleqiu.net). 同样地，使用 GPL3.0 开源方法。
 
+-----
 # Lite Laji Bing Daily Picture API(LLBDPA)
 ## What is this?
 This API can catch daily picture from Bing.com,and can open this picture.
