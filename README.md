@@ -14,4 +14,4 @@ Picture copyright from Bing,API only redirect to Bing.com.
 
 PHP 5.2.0+,with JSON.
 
-Fork from [@Little_Qiu](https://www.littleqiu.net) .Using GPL 3.0
+Forked from [@Little_Qiu](https://www.littleqiu.net) .Using GPL 3.0
